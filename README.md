@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dheeraj Beniwal</h1>
+<h3 align="center">MERN Stack Developer | AI Enthusiast | Prompt Engineer</h3>
 
-<!--
-**dheerajbeniwal/dheerajbeniwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+🌱 Currently Learning **AI, Prompt Engineering & MERN Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Building Real World Projects
+
+🚀 Interested in AI Agents & Automation
+
+📫 Reach me: **bairwadheerai83@gmail.com**
+
+🌐 Portfolio: https://dheerajbajwaportfolio.netlify.app/
+
+---
+
+### Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en)
+
+---
+
+### Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" />
+</p>
+
+---
+
+### GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=dheerajbeniwal&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=dheerajbeniwal&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajbeniwal&layout=compact&theme=tokyonight)
+
+---
+
+### Visitor Count
+
+![](https://komarev.com/ghpvc/?username=dheerajbeniwal&color=blue)
