@@ -18,10 +18,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en)
-[Portfolio](https://dheeraj-profile.vercel.app/)
-
-
+🌐 [Portfolio](https://dheeraj-profile.vercel.app/) •
+💼 [LinkedIn](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en) •
+📸 [Instagram](https://www.instagram.com/dheeraj._.beniwal/) •
+🐦 [Twitter/X](https://x.com/bairwa_dhe9033)
 
 
 ---
