@@ -19,7 +19,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en)
-[portfolio](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en)
+[Portfolio](https://dheeraj-profile.vercel.app/)
 
 
 
