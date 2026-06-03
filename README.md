@@ -12,13 +12,17 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 📫 Reach me: **bairwadheerai83@gmail.com**
 
-🌐 Portfolio: https://dheerajbajwaportfolio.netlify.app/
+🌐 Portfolio: https://dheeraj-profile.vercel.app/
 
 ---
 
 ### Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en)
+[portfolio]([LinkedIn](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en)
+
+
+
 
 ---
 
