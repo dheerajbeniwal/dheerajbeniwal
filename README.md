@@ -12,7 +12,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 📫 Reach me: **bairwadheerai83@gmail.com**
 
-🌐 Portfolio: https://dheeraj-profile.vercel.app/
+🌐 Portfolio: https://self-portfolio-website-8q8s5yadd-dheeraj-bairwa-s-projects.vercel.app/
 
 ---
 
