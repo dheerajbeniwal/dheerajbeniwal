@@ -18,7 +18,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Connect With Me
 
-🌐 [Portfolio](https://dheeraj-profile.vercel.app/) •
+🌐 [Portfolio](https://self-portfolio-website-8q8s5yadd-dheeraj-bairwa-s-projects.vercel.app/) •
 💼 [LinkedIn](https://www.linkedin.com/in/dheeraj-beniwal-dev/?locale=en) •
 📸 [Instagram](https://www.instagram.com/dheeraj._.beniwal/) •
 🐦 [Twitter/X](https://x.com/bairwa_dhe9033)
